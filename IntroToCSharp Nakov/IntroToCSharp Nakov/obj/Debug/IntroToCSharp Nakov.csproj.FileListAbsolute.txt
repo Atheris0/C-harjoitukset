@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\IntroToCSharp Nakov\IntroToCSharp Nakov\bin\Debug\IntroToCSharp Nakov.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\IntroToCSharp Nakov\IntroToCSharp Nakov\bin\Debug\IntroToCSharp Nakov.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\IntroToCSharp Nakov\IntroToCSharp Nakov\bin\Debug\IntroToCSharp Nakov.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\IntroToCSharp Nakov\IntroToCSharp Nakov\obj\Debug\IntroToCSharp Nakov.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\IntroToCSharp Nakov\IntroToCSharp Nakov\obj\Debug\IntroToCSharp Nakov.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\IntroToCSharp Nakov\IntroToCSharp Nakov\obj\Debug\IntroToCSharp Nakov.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\IntroToCSharp Nakov\IntroToCSharp Nakov\obj\Debug\IntroToCSharp Nakov.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\IntroToCSharp Nakov\IntroToCSharp Nakov\obj\Debug\IntroToCSharp Nakov.pdb

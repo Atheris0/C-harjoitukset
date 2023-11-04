@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Järjestä luvut\Järjestä luvut\bin\Debug\Järjestä luvut.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Järjestä luvut\Järjestä luvut\bin\Debug\Järjestä luvut.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Järjestä luvut\Järjestä luvut\bin\Debug\Järjestä luvut.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Järjestä luvut\Järjestä luvut\obj\Debug\Järjestä luvut.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Järjestä luvut\Järjestä luvut\obj\Debug\Järjestä luvut.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Järjestä luvut\Järjestä luvut\obj\Debug\Järjestä luvut.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Järjestä luvut\Järjestä luvut\obj\Debug\Järjestä luvut.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Järjestä luvut\Järjestä luvut\obj\Debug\Järjestä luvut.pdb
