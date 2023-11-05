@@ -1,0 +1,13 @@
+E:\Koodit\C_sharp\bankAccounts\bankAccounts\bin\Debug\bankAccounts.exe.config
+E:\Koodit\C_sharp\bankAccounts\bankAccounts\bin\Debug\bankAccounts.exe
+E:\Koodit\C_sharp\bankAccounts\bankAccounts\bin\Debug\bankAccounts.pdb
+E:\Koodit\C_sharp\bankAccounts\bankAccounts\obj\Debug\bankAccounts.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\bankAccounts\bankAccounts\obj\Debug\bankAccounts.exe
+E:\Koodit\C_sharp\bankAccounts\bankAccounts\obj\Debug\bankAccounts.pdb
+C:\Users\minib\Downloads\bankAccounts\bankAccounts\bankAccounts\bin\Debug\bankAccounts.exe.config
+C:\Users\minib\Downloads\bankAccounts\bankAccounts\bankAccounts\bin\Debug\bankAccounts.exe
+C:\Users\minib\Downloads\bankAccounts\bankAccounts\bankAccounts\bin\Debug\bankAccounts.pdb
+C:\Users\minib\Downloads\bankAccounts\bankAccounts\bankAccounts\obj\Debug\bankAccounts.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\bankAccounts\bankAccounts\bankAccounts\obj\Debug\bankAccounts.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\bankAccounts\bankAccounts\bankAccounts\obj\Debug\bankAccounts.exe
+C:\Users\minib\Downloads\bankAccounts\bankAccounts\bankAccounts\obj\Debug\bankAccounts.pdb

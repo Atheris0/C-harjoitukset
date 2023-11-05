@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Auto1</name>
+    </assembly>
+    <members>
+        <member name="F:Auto1.Auto.matkamittari">
+            <summary>
+            Auton matkamittari, int.
+            </summary>
+        </member>
+        <member name="F:Auto1.Auto.merkki">
+            <summary>
+            Auton merkki, string.
+            </summary>
+        </member>
+        <member name="M:Auto1.Auto.#ctor(System.String,System.String)">
+            <summary>
+            Alustusmetodi. Parametriarvona annettaan luotavan auton merkki.
+            Uudella autolla on ajettu 0 km.
+            </summary>
+            <param name="autonMerkki">Luotavan auton merkki</param>
+        </member>
+        <member name="M:Auto1.Auto.Aja">
+            <summary>
+            Tämä metodi tulostaa ainoastaan tekstin "Wroom!".
+            </summary>
+        </member>
+        <member name="M:Auto1.Auto.LisaaMatka(System.Int32)">
+            <summary>
+            Tällä metodilla lisätään matka Auto-olion matkamittariin.
+            </summary>
+            <param name="matka">Mittariin lisättävä matka. (int)</param>
+        </member>
+        <member name="M:Auto1.Auto.AnnaKuvaus">
+            <summary>
+            Tämä metodi palauttaa kuvauksen siitä autosta, jonka kautta metodia kutsutaan.
+            Kuvauksessa näytetään auton malli ja sen matkamittarin lukema.
+            </summary>
+            <returns>Kuvaus autosta tekstinä.</returns>
+            
+        </member>
+    </members>
+</doc>
