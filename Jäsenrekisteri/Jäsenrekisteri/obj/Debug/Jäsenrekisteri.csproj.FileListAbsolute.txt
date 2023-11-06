@@ -1,0 +1,15 @@
+C:\Users\minib\Downloads\Jäsenrekisteri\Jäsenrekisteri\bin\Debug\Jäsenrekisteri.exe.config
+C:\Users\minib\Downloads\Jäsenrekisteri\Jäsenrekisteri\bin\Debug\Jäsenrekisteri.exe
+C:\Users\minib\Downloads\Jäsenrekisteri\Jäsenrekisteri\bin\Debug\Jäsenrekisteri.pdb
+C:\Users\minib\Downloads\Jäsenrekisteri\Jäsenrekisteri\obj\Debug\Jäsenrekisteri.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Jäsenrekisteri\Jäsenrekisteri\obj\Debug\Jäsenrekisteri.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Jäsenrekisteri\Jäsenrekisteri\obj\Debug\Jäsenrekisteri.exe
+C:\Users\minib\Downloads\Jäsenrekisteri\Jäsenrekisteri\obj\Debug\Jäsenrekisteri.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Jäsenrekisteri\Jäsenrekisteri\bin\Debug\Jäsenrekisteri.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Jäsenrekisteri\Jäsenrekisteri\bin\Debug\Jäsenrekisteri.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Jäsenrekisteri\Jäsenrekisteri\bin\Debug\Jäsenrekisteri.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Jäsenrekisteri\Jäsenrekisteri\obj\Debug\Jäsenrekisteri.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Jäsenrekisteri\Jäsenrekisteri\obj\Debug\Jäsenrekisteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Jäsenrekisteri\Jäsenrekisteri\obj\Debug\Jäsenrekisteri.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Jäsenrekisteri\Jäsenrekisteri\obj\Debug\Jäsenrekisteri.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Jäsenrekisteri\Jäsenrekisteri\obj\Debug\Jäsenrekisteri.pdb

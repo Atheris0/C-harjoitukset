@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Car Dealer\Car Dealer\bin\Debug\Car Dealer.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Car Dealer\Car Dealer\bin\Debug\Car Dealer.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Car Dealer\Car Dealer\bin\Debug\Car Dealer.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Car Dealer\Car Dealer\obj\Debug\Car Dealer.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Car Dealer\Car Dealer\obj\Debug\Car Dealer.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Car Dealer\Car Dealer\obj\Debug\Car Dealer.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Car Dealer\Car Dealer\obj\Debug\Car Dealer.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Car Dealer\Car Dealer\obj\Debug\Car Dealer.pdb

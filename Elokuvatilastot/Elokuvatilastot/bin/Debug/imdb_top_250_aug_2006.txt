@@ -1,0 +1,250 @@
+8.5 # 1991 # The Silence of the Lambs # Jonathan Demme
+8.3 # 1981 # Boot, Das # Wolfgang Petersen
+8.5 # 1962 # Lawrence of Arabia # David Lean
+8.2 # 1963 # The Great Escape # John Sturges
+8.5 # 2001 # Fabuleux destin d'Amélie Poulain, Le # Jean-Pierre Jeunet
+8.5 # 1950 # Sunset Blvd. # Billy Wilder
+8.2 # 1997 # Vita è bella, La # Roberto Benigni
+8.3 # 2004 # Hotel Rwanda # Terry George
+8.3 # 1948 # The Treasure of the Sierra Madre # John Huston
+8.7 # 1954 # Rear Window # Alfred Hitchcock
+8.6 # 1957 # 12 Angry Men # Sidney Lumet
+8.2 # 1958 # Touch of Evil # Orson Welles
+8.3 # 1957 # The Bridge on the River Kwai # David Lean
+8.2 # 1984 # Amadeus # Milos Forman
+8.2 # 1968 # 2001: A Space Odyssey # Stanley Kubrick
+8.3 # 2000 # Requiem for a Dream # Darren Aronofsky
+8.3 # 1931 # M # Fritz Lang
+8.2 # 1973 # The Sting # George Roy Hill
+8.3 # 1997 # L.A. Confidential # Curtis Hanson
+8.3 # 1941 # The Maltese Falcon # John Huston
+8.3 # 1979 # Alien # Ridley Scott
+8.7 # 2001 # The Lord of the Rings: The Fellowship of the Ring # Peter Jackson
+8.3 # 1971 # A Clockwork Orange # Stanley Kubrick 
+8.3 # 1927 # Metropolis # Fritz Lang
+8.3 # 1992 # Reservoir Dogs # Quentin Tarantino
+8.2 # 2005 # Batman Begins # Christopher Nolan
+8.2 # 1975 # Jaws # Steven Spielberg
+8.3 # 1950 # Rashômon # Akira Kurosawa
+8.2 # 1951 # Strangers on a Train # Alfred Hitchcock
+8.2 # 1954 # On the Waterfront # Elia Kazan
+8.2 # 2004 # The Incredibles # Brad Bird
+8.3 # 2005 # Sin City # Frank Miller et al.
+8.2 # 1994 # Forrest Gump # Robert Zemeckis
+8.2 # 1939 # Mr. Smith Goes to Washington # Frank Capra
+8.5 # 1946 # It's a Wonderful Life # Frank Capra
+8.2 # 2003 # Kill Bill: Vol. 1 # Quentin Tarantino
+8.2 # 1939 # The Wizard of Oz # Victor Fleming
+8.2 # 1960 # The Apartment # Billy Wilder
+8.1 # 1940 # The Great Dictator # Charles Chaplin
+8.1 # 2003 # Finding Nemo # Andrew Stanton
+8.1 # 1997 # Mononoke-hime # Hayao Miyazaki
+8.1 # 1983 # Star Wars: Episode VI - Return of the Jedi # Richard Marquand
+8.1 # 1984 # Once Upon a Time in America # Sergio Leone
+8.1 # 1953 # Salaire de la peur, Le # Henri-Georges Clouzot
+8.2 # 1931 # City Lights # Charles Chaplin
+8.1 # 1967 # Cool Hand Luke # Stuart Rosenberg
+8.2 # 1991 # Terminator 2: Judgment Day # James Cameron
+8.5 # 1999 # Fight Club # David Fincher
+8.5 # 1999 # American Beauty # Sam Mendes
+8.2 # 1957 # Sjunde inseglet, Det # Ingmar Bergman
+8.2 # 1995 # Braveheart # Mel Gibson
+8.9 # 1974 # The Godfather: Part II # Francis Ford Coppola
+8.0 # 1934 # It Happened One Night # Frank Capra
+8.0 # 1978 # The Deer Hunter # Michael Cimino
+8.7 # 1966 # Buono, il brutto, il cattivo, Il # Sergio Leone
+8.5 # 1999 # The Matrix # Andy & Larry Wachowski
+8.1 # 1999 # The Sixth Sense # M. Night Shyamalan
+8.5 # 1958 # Vertigo # Alfred Hitchcock
+8.2 # 2004 # Crash # Paul Haggis
+8.7 # 1994 # Pulp Fiction # Quentin Tarantino
+8.2 # 1985 # Ran # Akira Kurosawa
+8.8 # 1993 # Schindler's List # Steven Spielberg
+8.1 # 2004 # Kill Bill: Vol. 2 # Quentin Tarantino
+8.4 # 1976 # Taxi Driver # Martin Scorsese
+7.9 # 2005 # Cinderella Man # Ron Howard
+8.0 # 1948 # Ladri di biciclette # Vittorio De Sica
+8.0 # 1967 # The Graduate # Mike Nichols
+7.9 # 2004 # Finding Neverland # Marc Forster
+8.3 # 1998 # Saving Private Ryan # Steven Spielberg
+8.6 # 1995 # The Usual Suspects # Bryan Singer
+7.9 # 1939 # Gone with the Wind # Victor Fleming
+8.4 # 1979 # Apocalypse Now # Francis Ford Coppola
+7.9 # 2005 # Wallace &amp; Gromit in The Curse of the Were-Rabbit # Steve Box & Nick Park
+7.9 # 1946 # The Best Years of Our Lives # William Wyler
+7.9 # 1963 # Tengoku to jigoku # Akira Kurosawa
+8.7 # 1980 # Star Wars: Episode V - The Empire Strikes Back # Irvin Kershner
+8.0 # 1969 # Butch Cassidy and the Sundance Kid # George Roy Hill
+8.3 # 1980 # The Shining # Stanley Kubrick
+7.9 # 1983 # A Christmas Story # Bob Clark
+7.9 # 2004 # Before Sunset # Richard Linklater
+8.0 # 1986 # Platoon # Oliver Stone
+8.1 # 1977 # Annie Hall # Woody Allen
+7.9 # 1960 # Spartacus # Stanley Kubrick
+7.9 # 1940 # The Grapes of Wrath # John Ford
+8.3 # 1944 # Double Indemnity # Billy Wilder
+8.6 # 1981 # Raiders of the Lost Ark # Steven Spielberg
+7.9 # 2003 # Mystic River # Clint Eastwood
+8.2 # 1989 # Nuovo cinema Paradiso # Giuseppe Tornatore
+7.9 # 1995 # Toy Story # John Lasseter
+8.3 # 1936 # Modern Times # Charles Chaplin
+7.9 # 1959 # Quatre cents coups, Les # François Truffaut
+8.0 # 2005 # V for Vendetta # James McTeigue
+8.4 # 2004 # Eternal Sunshine of the Spotless Mind # Michel Gondry
+8.7 # 1977 # Star Wars # George Lucas
+7.9 # 2001 # Shrek # Andrew Adamson & Vicky Jenson
+7.9 # 1996 # Trainspotting # Danny Boyle
+7.9 # 1999 # Magnolia # Paul Thomas Anderson
+8.3 # 1952 # Singin' in the Rain # Stanley Donen & Gene Kelly
+8.1 # 2003 # Oldboy # Chan-wook Park
+7.9 # 1993 # Groundhog Day # Harold Ramis
+7.9 # 2003 # Big Fish # Tim Burton
+8.2 # 1982 # Blade Runner # Ridley Scott
+8.3 # 1980 # Raging Bull # Martin Scorsese
+8.2 # 2001 # Donnie Darko # Richard Kelly
+7.9 # 1961 # The Hustler # Robert Rossen
+8.3 # 1962 # The Manchurian Candidate # John Frankenheimer
+7.9 # 2005 # Walk the Line # James Mangold
+8.0 # 1949 # Kind Hearts and Coronets # Robert Hamer
+7.9 # 1947 # Out of the Past # Jacques Tourneur
+7.9 # 1969 # The Wild Bunch # Sam Peckinpah
+8.2 # 1952 # High Noon # Fred Zinnemann
+8.3 # 2004 # Million Dollar Baby # Clint Eastwood
+7.9 # 1938 # The Lady Vanishes # Alfred Hitchcock
+8.3 # 1959 # Some Like It Hot # Billy Wilder
+8.7 # 1975 # One Flew Over the Cuckoo's Nest # Milos Forman
+7.9 # 1973 # The Exorcist # William Friedkin
+8.3 # 1950 # All About Eve # Joseph L. Mankiewicz
+7.9 # 1998 # The Big Lebowski # Joel Coen
+8.4 # 1957 # Paths of Glory # Stanley Kubrick
+7.9 # 1933 # King Kong # Merian C. Cooper & Ernest B. Schoedsack
+7.9 # 1995 # Twelve Monkeys # Terry Gilliam
+8.4 # 2004 # Untergang, Der # Oliver Hirschbiegel
+7.9 # 1957 # Kumonosu jô # Akira Kurosawa
+8.1 # 2000 # Wo hu cang long # Ang Lee
+7.9 # 1994 # Ed Wood # Tim Burton
+8.0 # 1927 # The General # Clyde Bruckman & Buster Keaton
+8.0 # 2000 # Amores perros # Alejandro González Iñárritu
+8.8 # 2003 # The Lord of the Rings: The Return of the King # Peter Jackson 
+8.0 # 1965 # Per qualche dollaro in più # Sergio Leone
+7.9 # 1985 # Idi i smotri # Elem Klimov
+8.6 # 2002 # Cidade de Deus # Fernando Meirelles
+7.9 # 2002 # Hable con ella # Pedro Almodóvar
+7.9 # 1953 # Stalag 17 # Billy Wilder
+8.2 # 1987 # Full Metal Jacket # Stanley Kubrick
+8.0 # 1999 # Toy Story 2 # John Lasseter
+8.0 # 2000 # Gladiator # Ridley Scott
+7.9 # 1961 # Judgment at Nuremberg # Stanley Kramer
+8.4 # 1962 # To Kill a Mockingbird # Robert Mulligan
+7.9 # 1995 # Heat # Michael Mann
+8.3 # 1986 # Aliens # James Cameron
+8.2 # 1946 # Notorious # Alfred Hitchcock
+7.9 # 1957 # Witness for the Prosecution # Billy Wilder
+7.9 # 1999 # The Straight Story # David Lynch
+8.0 # 1951 # The African Queen # John Huston
+8.3 # 1940 # Rebecca # Alfred Hitchcock
+8.1 # 1961 # Yojimbo # Akira Kurosawa
+7.9 # 1979 # Manhattan # Woody Allen
+8.0 # 1938 # The Adventures of Robin Hood # Michael Curtiz & William Knightley
+8.0 # 1998 # Lola rennt # Tom Tykwer
+8.0 # 1955 # Diaboliques, Les # Henri-Georges Clouzot
+7.9 # 1959 # Anatomy of a Murder # Otto Preminger
+8.6 # 1964 # Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb # Stanley Kubrick
+7.9 # 1935 # Bride of Frankenstein # James Whale
+8.2 # 1980 # The Elephant Man # David Lynch
+7.9 # 1984 # The Terminator # James Cameron
+8.1 # 1992 # Unforgiven # Clint Eastwood
+8.6 # 2002 # The Lord of the Rings: The Two Towers # Peter Jackson
+7.9 # 1974 # Young Frankenstein # Mel Brooks
+8.4 # 1995 # Se7en # David Fincher
+7.9 # 1955 # Du rififi chez les hommes # Jules Dassin
+8.0 # 1945 # Brief Encounter # David Lean
+7.9 # 1944 # Arsenic and Old Lace # Frank Capra
+8.4 # 1994 # Léon # Luc Besson
+8.4 # 1974 # Chinatown # Roman Polanski
+8.0 # 1933 # Duck Soup # Leo McCarey
+7.9 # 2000 # Snatch. # Guy Ritchie
+7.9 # 1930 # All Quiet on the Western Front # Lewis Milestone
+8.0 # 1943 # Shadow of a Doubt # Alfred Hitchcock
+7.9 # 1972 # Sleuth # Joseph L. Mankiewicz
+7.9 # 1967 # In the Heat of the Night # Norman Jewison
+8.0 # 1966 # Battaglia di Algeri, La # Gillo Pontecorvo
+8.0 # 1955 # The Night of the Hunter # Charles Laughton
+7.9 # 1996 # Sling Blade # Billy Bob Thornton
+8.0 # 1982 # Gandhi # Richard Attenborough
+7.9 # 1988 # Hotaru no haka # Isao Takahata
+8.4 # 1949 # The Third Man # Carol Reed
+8.6 # 1941 # Citizen Kane # Orson Welles
+7.9 # 2001 # Monsters, Inc. # Pete Docter
+8.0 # 1957 # Smultronstället # Ingmar Bergman
+7.9 # 1953 # Roman Holiday # William Wyler
+8.4 # 1998 # American History X # Tony Kaye
+8.6 # 1960 # Psycho # Alfred Hitchcock
+7.9 # 1960 # Inherit the Wind # Stanley Kramer
+8.0 # 1974 # The Conversation # Francis Ford Coppola
+8.0 # 1989 # Glory # Edward Zwick
+7.9 # 1962 # The Man Who Shot Liberty Valance # John Ford
+8.4 # 2002 # The Pianist # Roman Polanski
+7.9 # 1998 # Festen # Thomas Vinterberg
+8.0 # 1970 # Patton # Franklin J. Schaffner
+7.9 # 1957 # Sweet Smell of Success # Alexander Mackendrick
+7.9 # 1987 # Himmel über Berlin, Der # Wim Wenders
+7.9 # 1938 # Bringing Up Baby # Howard Hawks
+8.0 # 1963 # 8½ # Federico Fellini
+8.1 # 1959 # Ben-Hur # William Wyler
+8.1 # 1989 # Indiana Jones and the Last Crusade # Steven Spielberg
+8.2 # 1946 # The Big Sleep # Howard Hawks
+7.9 # 1945 # The Lost Weekend # Billy Wilder
+7.9 # 1967 # Bonnie and Clyde # Arthur Penn
+8.0 # 1922 # Nosferatu, eine Symphonie des Grauens # F.W. Murnau
+8.0 # 1950 # Harvey # Henry Koster
+7.9 # 1998 # Lock, Stock and Two Smoking Barrels # Guy Ritchie
+8.1 # 1987 # The Princess Bride # Rob Reiner
+7.9 # 1982 # The Thing # John Carpenter
+7.9 # 1952 # Umberto D. # Vittorio De Sica
+7.9 # 1968 # Rosemary's Baby # Roman Polanski
+8.0 # 1986 # Stand by Me # Rob Reiner
+8.1 # 1957 # Notti di Cabiria, Le # Federico Fellini
+7.9 # 1956 # The Searchers # John Ford
+8.2 # 1996 # Fargo # Joel Coen
+7.9 # 1985 # Brazil # Terry Gilliam
+7.9 # 1983 # Scarface # Brian De Palma
+7.9 # 1940 # His Girl Friday # Howard Hawks
+7.9 # 1952 # Ikiru # Akira Kurosawa
+8.6 # 1990 # Goodfellas # Martin Scorsese
+7.9 # 1931 # Frankenstein # James Whale
+8.0 # 1988 # Die Hard # John McTiernan
+8.1 # 1985 # Back to the Future # Robert Zemeckis
+7.9 # 2003 # Pirates of the Caribbean: The Curse of the Black Pearl # Gore Verbinski
+8.6 # 1968 # C'era una volta il West # Sergio Leone
+7.9 # 2001 # No Man's Land # Danis Tanovic
+8.1 # 1956 # The Killing # Stanley Kubrick
+9.0 # 1994 # The Shawshank Redemption # Frank Darabont
+8.6 # 2000 # Memento # Christopher Nolan
+8.8 # 1954 # Shichinin no samurai # Akira Kurosawa
+8.1 # 1979 # Life of Brian # Terry Jones
+7.8 # 1995 # Haine, La # Mathieu Kassovitz
+8.0 # 1920 # Cabinet des Dr. Caligari., Das # Robert Wiene
+8.0 # 1951 # The Day the Earth Stood Still # Robert Wise
+7.8 # 2005 # Star Wars: Episode III - Revenge of the Sith # George Lucas
+8.1 # 1999 # The Green Mile # Frank Darabont
+7.8 # 1965 # Doctor Zhivago # David Lean
+7.8 # 1998 # Central do Brasil # Walter Salles
+7.8 # 1951 # A Streetcar Named Desire # Elia Kazan
+8.6 # 1959 # North by Northwest # Alfred Hitchcock
+7.8 # 1966 # A Man for All Seasons # Fred Zinnemann
+7.8 # 1962 # Ángel exterminador, El # Luis Buñuel
+7.8 # 1963 # Charade # Stanley Donen
+7.8 # 2005 # Brokeback Mountain # Ang Lee
+8.4 # 2001 # Sen to Chihiro no kamikakushi # Hayao Miyazaki
+8.0 # 1975 # Dog Day Afternoon # Sidney Lumet
+7.8 # 2000 # Almost Famous # Cameron Crowe
+8.4 # 1975 # Monty Python and the Holy Grail # Terry Gilliam & Terry Jones
+7.8 # 1968 # Planet of the Apes # Franklin J. Schaffner
+8.0 # 2002 # Ying xiong # Yimou Zhang
+8.8 # 1942 # Casablanca # Michael Curtiz
+8.0 # 1946 # Belle et la bête, La # Jean Cocteau
+9.1 # 1972 # The Godfather # Francis Ford Coppola
+8.0 # 1925 # The Gold Rush # Charles Chaplin
+8.0 # 1940 # The Philadelphia Story # George Cukor
+7.8 # 1971 # Harold and Maude # Hal Ashby

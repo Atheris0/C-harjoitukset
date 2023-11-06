@@ -1,0 +1,14 @@
+E:\Koodit\C_sharp\Elokuvatilastot\Elokuvatilastot\bin\Debug\Elokuvatilastot.exe.config
+E:\Koodit\C_sharp\Elokuvatilastot\Elokuvatilastot\bin\Debug\Elokuvatilastot.exe
+E:\Koodit\C_sharp\Elokuvatilastot\Elokuvatilastot\bin\Debug\Elokuvatilastot.pdb
+E:\Koodit\C_sharp\Elokuvatilastot\Elokuvatilastot\obj\Debug\Elokuvatilastot.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\Elokuvatilastot\Elokuvatilastot\obj\Debug\Elokuvatilastot.exe
+E:\Koodit\C_sharp\Elokuvatilastot\Elokuvatilastot\obj\Debug\Elokuvatilastot.pdb
+C:\Users\2254336\Downloads\Elokuvatilastot\Elokuvatilastot\bin\Debug\Elokuvatilastot.exe.config
+C:\Users\2254336\Downloads\Elokuvatilastot\Elokuvatilastot\bin\Debug\Elokuvatilastot.exe
+C:\Users\2254336\Downloads\Elokuvatilastot\Elokuvatilastot\bin\Debug\Elokuvatilastot.pdb
+C:\Users\2254336\Downloads\Elokuvatilastot\Elokuvatilastot\obj\Debug\Elokuvatilastot.csproj.AssemblyReference.cache
+C:\Users\2254336\Downloads\Elokuvatilastot\Elokuvatilastot\obj\Debug\Elokuvatilastot.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\Downloads\Elokuvatilastot\Elokuvatilastot\obj\Debug\Elokuvatilastot.csproj.CoreCompileInputs.cache
+C:\Users\2254336\Downloads\Elokuvatilastot\Elokuvatilastot\obj\Debug\Elokuvatilastot.exe
+C:\Users\2254336\Downloads\Elokuvatilastot\Elokuvatilastot\obj\Debug\Elokuvatilastot.pdb

@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Etsi suurin\Etsi suurin\bin\Debug\Etsi suurin.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Etsi suurin\Etsi suurin\bin\Debug\Etsi suurin.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Etsi suurin\Etsi suurin\bin\Debug\Etsi suurin.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Etsi suurin\Etsi suurin\obj\Debug\Etsi suurin.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Etsi suurin\Etsi suurin\obj\Debug\Etsi suurin.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Etsi suurin\Etsi suurin\obj\Debug\Etsi suurin.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Etsi suurin\Etsi suurin\obj\Debug\Etsi suurin.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Etsi suurin\Etsi suurin\obj\Debug\Etsi suurin.pdb
