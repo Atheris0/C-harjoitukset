@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kivi paperi sakset", "Kivi paperi sakset\Kivi paperi sakset.csproj", "{ABF8AD7B-C01B-4532-BCC0-6C277C12B1B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF8AD7B-C01B-4532-BCC0-6C277C12B1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF8AD7B-C01B-4532-BCC0-6C277C12B1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF8AD7B-C01B-4532-BCC0-6C277C12B1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF8AD7B-C01B-4532-BCC0-6C277C12B1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9E38B0D-C2C1-4A1E-A818-C96201C40267}
+	EndGlobalSection
+EndGlobal

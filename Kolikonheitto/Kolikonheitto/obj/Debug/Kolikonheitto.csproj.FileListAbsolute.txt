@@ -1,0 +1,7 @@
+C:\Users\minib\Downloads\Kolikonheitto\Kolikonheitto\obj\Debug\Kolikonheitto.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Kolikonheitto\Kolikonheitto\obj\Debug\Kolikonheitto.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Kolikonheitto\Kolikonheitto\bin\Debug\Kolikonheitto.exe.config
+C:\Users\minib\Downloads\Kolikonheitto\Kolikonheitto\bin\Debug\Kolikonheitto.exe
+C:\Users\minib\Downloads\Kolikonheitto\Kolikonheitto\bin\Debug\Kolikonheitto.pdb
+C:\Users\minib\Downloads\Kolikonheitto\Kolikonheitto\obj\Debug\Kolikonheitto.exe
+C:\Users\minib\Downloads\Kolikonheitto\Kolikonheitto\obj\Debug\Kolikonheitto.pdb

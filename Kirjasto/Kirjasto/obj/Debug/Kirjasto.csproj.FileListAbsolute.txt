@@ -1,0 +1,15 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kirjasto\Kirjasto\obj\Debug\Kirjasto.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kirjasto\Kirjasto\obj\Debug\Kirjasto.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kirjasto\Kirjasto\obj\Debug\Kirjasto.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kirjasto\Kirjasto\bin\Debug\Kirjasto.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kirjasto\Kirjasto\bin\Debug\Kirjasto.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kirjasto\Kirjasto\bin\Debug\Kirjasto.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kirjasto\Kirjasto\obj\Debug\Kirjasto.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kirjasto\Kirjasto\obj\Debug\Kirjasto.pdb
+C:\Users\minib\Downloads\Kirjasto\Kirjasto\Kirjasto\bin\Debug\Kirjasto.exe.config
+C:\Users\minib\Downloads\Kirjasto\Kirjasto\Kirjasto\bin\Debug\Kirjasto.exe
+C:\Users\minib\Downloads\Kirjasto\Kirjasto\Kirjasto\bin\Debug\Kirjasto.pdb
+C:\Users\minib\Downloads\Kirjasto\Kirjasto\Kirjasto\obj\Debug\Kirjasto.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Kirjasto\Kirjasto\Kirjasto\obj\Debug\Kirjasto.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Kirjasto\Kirjasto\Kirjasto\obj\Debug\Kirjasto.exe
+C:\Users\minib\Downloads\Kirjasto\Kirjasto\Kirjasto\obj\Debug\Kirjasto.pdb

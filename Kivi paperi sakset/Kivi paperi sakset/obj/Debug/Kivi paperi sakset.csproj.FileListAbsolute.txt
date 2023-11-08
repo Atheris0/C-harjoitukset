@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kivi paperi sakset\Kivi paperi sakset\bin\Debug\Kivi paperi sakset.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kivi paperi sakset\Kivi paperi sakset\bin\Debug\Kivi paperi sakset.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kivi paperi sakset\Kivi paperi sakset\bin\Debug\Kivi paperi sakset.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kivi paperi sakset\Kivi paperi sakset\obj\Debug\Kivi paperi sakset.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kivi paperi sakset\Kivi paperi sakset\obj\Debug\Kivi paperi sakset.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kivi paperi sakset\Kivi paperi sakset\obj\Debug\Kivi paperi sakset.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kivi paperi sakset\Kivi paperi sakset\obj\Debug\Kivi paperi sakset.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kivi paperi sakset\Kivi paperi sakset\obj\Debug\Kivi paperi sakset.pdb
