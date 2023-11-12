@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kysytään luvut\Kysytään luvut\bin\Debug\Kysytään luvut.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kysytään luvut\Kysytään luvut\bin\Debug\Kysytään luvut.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kysytään luvut\Kysytään luvut\bin\Debug\Kysytään luvut.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kysytään luvut\Kysytään luvut\obj\Debug\Kysytään luvut.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kysytään luvut\Kysytään luvut\obj\Debug\Kysytään luvut.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kysytään luvut\Kysytään luvut\obj\Debug\Kysytään luvut.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kysytään luvut\Kysytään luvut\obj\Debug\Kysytään luvut.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Kysytään luvut\Kysytään luvut\obj\Debug\Kysytään luvut.pdb

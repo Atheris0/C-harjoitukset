@@ -1,0 +1,7 @@
+C:\Users\minib\Downloads\Kolme suurinta\Kolme suurinta\obj\Debug\Kolme suurinta.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Kolme suurinta\Kolme suurinta\obj\Debug\Kolme suurinta.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Kolme suurinta\Kolme suurinta\bin\Debug\Kolme suurinta.exe.config
+C:\Users\minib\Downloads\Kolme suurinta\Kolme suurinta\bin\Debug\Kolme suurinta.exe
+C:\Users\minib\Downloads\Kolme suurinta\Kolme suurinta\bin\Debug\Kolme suurinta.pdb
+C:\Users\minib\Downloads\Kolme suurinta\Kolme suurinta\obj\Debug\Kolme suurinta.exe
+C:\Users\minib\Downloads\Kolme suurinta\Kolme suurinta\obj\Debug\Kolme suurinta.pdb

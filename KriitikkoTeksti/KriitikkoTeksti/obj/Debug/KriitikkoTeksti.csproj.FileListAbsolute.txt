@@ -1,0 +1,13 @@
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.exe.config
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.exe
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.pdb
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.exe
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.pdb
+C:\Users\2254336\Downloads\KriitikkoTeksti\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.csproj.AssemblyReference.cache
+C:\Users\2254336\Downloads\KriitikkoTeksti\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\Downloads\KriitikkoTeksti\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.csproj.CoreCompileInputs.cache
+C:\Users\2254336\Downloads\KriitikkoTeksti\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.exe
+C:\Users\2254336\Downloads\KriitikkoTeksti\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.pdb
+C:\Users\2254336\Downloads\KriitikkoTeksti\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.exe.config
+C:\Users\2254336\Downloads\KriitikkoTeksti\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.exe
+C:\Users\2254336\Downloads\KriitikkoTeksti\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.pdb
