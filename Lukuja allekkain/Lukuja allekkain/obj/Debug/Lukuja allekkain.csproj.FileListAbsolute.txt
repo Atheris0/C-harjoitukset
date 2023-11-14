@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Lukuja allekkain\Lukuja allekkain\bin\Debug\Lukuja allekkain.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Lukuja allekkain\Lukuja allekkain\bin\Debug\Lukuja allekkain.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Lukuja allekkain\Lukuja allekkain\bin\Debug\Lukuja allekkain.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Lukuja allekkain\Lukuja allekkain\obj\Debug\Lukuja allekkain.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Lukuja allekkain\Lukuja allekkain\obj\Debug\Lukuja allekkain.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Lukuja allekkain\Lukuja allekkain\obj\Debug\Lukuja allekkain.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Lukuja allekkain\Lukuja allekkain\obj\Debug\Lukuja allekkain.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Lukuja allekkain\Lukuja allekkain\obj\Debug\Lukuja allekkain.pdb

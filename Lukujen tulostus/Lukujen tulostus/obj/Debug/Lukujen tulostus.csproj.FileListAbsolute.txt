@@ -1,0 +1,7 @@
+C:\Users\minib\Downloads\Lukujen tulostus\Lukujen tulostus\bin\Debug\Lukujen tulostus.exe.config
+C:\Users\minib\Downloads\Lukujen tulostus\Lukujen tulostus\bin\Debug\Lukujen tulostus.exe
+C:\Users\minib\Downloads\Lukujen tulostus\Lukujen tulostus\bin\Debug\Lukujen tulostus.pdb
+C:\Users\minib\Downloads\Lukujen tulostus\Lukujen tulostus\obj\Debug\Lukujen tulostus.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Lukujen tulostus\Lukujen tulostus\obj\Debug\Lukujen tulostus.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Lukujen tulostus\Lukujen tulostus\obj\Debug\Lukujen tulostus.exe
+C:\Users\minib\Downloads\Lukujen tulostus\Lukujen tulostus\obj\Debug\Lukujen tulostus.pdb

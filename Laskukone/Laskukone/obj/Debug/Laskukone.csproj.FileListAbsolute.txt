@@ -1,0 +1,7 @@
+C:\Users\minib\Downloads\Laskukone\Laskukone\bin\Debug\Laskukone.exe.config
+C:\Users\minib\Downloads\Laskukone\Laskukone\bin\Debug\Laskukone.exe
+C:\Users\minib\Downloads\Laskukone\Laskukone\bin\Debug\Laskukone.pdb
+C:\Users\minib\Downloads\Laskukone\Laskukone\obj\Debug\Laskukone.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Laskukone\Laskukone\obj\Debug\Laskukone.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Laskukone\Laskukone\obj\Debug\Laskukone.exe
+C:\Users\minib\Downloads\Laskukone\Laskukone\obj\Debug\Laskukone.pdb
