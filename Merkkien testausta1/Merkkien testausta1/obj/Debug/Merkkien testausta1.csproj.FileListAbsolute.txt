@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien testausta1\Merkkien testausta1\bin\Debug\Merkkien testausta1.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien testausta1\Merkkien testausta1\bin\Debug\Merkkien testausta1.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien testausta1\Merkkien testausta1\bin\Debug\Merkkien testausta1.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien testausta1\Merkkien testausta1\obj\Debug\Merkkien testausta1.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien testausta1\Merkkien testausta1\obj\Debug\Merkkien testausta1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien testausta1\Merkkien testausta1\obj\Debug\Merkkien testausta1.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien testausta1\Merkkien testausta1\obj\Debug\Merkkien testausta1.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien testausta1\Merkkien testausta1\obj\Debug\Merkkien testausta1.pdb

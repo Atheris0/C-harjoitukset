@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien tutkimista\Merkkien tutkimista\bin\Debug\Merkkien tutkimista.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien tutkimista\Merkkien tutkimista\bin\Debug\Merkkien tutkimista.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien tutkimista\Merkkien tutkimista\bin\Debug\Merkkien tutkimista.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien tutkimista\Merkkien tutkimista\obj\Debug\Merkkien tutkimista.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien tutkimista\Merkkien tutkimista\obj\Debug\Merkkien tutkimista.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien tutkimista\Merkkien tutkimista\obj\Debug\Merkkien tutkimista.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien tutkimista\Merkkien tutkimista\obj\Debug\Merkkien tutkimista.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Merkkien tutkimista\Merkkien tutkimista\obj\Debug\Merkkien tutkimista.pdb
