@@ -1,0 +1,7 @@
+C:\Users\minib\Downloads\Mittaustiedot2\Mittaustiedot2\bin\Debug\Mittaustiedot2.exe.config
+C:\Users\minib\Downloads\Mittaustiedot2\Mittaustiedot2\bin\Debug\Mittaustiedot2.exe
+C:\Users\minib\Downloads\Mittaustiedot2\Mittaustiedot2\bin\Debug\Mittaustiedot2.pdb
+C:\Users\minib\Downloads\Mittaustiedot2\Mittaustiedot2\obj\Debug\Mittaustiedot2.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Mittaustiedot2\Mittaustiedot2\obj\Debug\Mittaustiedot2.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Mittaustiedot2\Mittaustiedot2\obj\Debug\Mittaustiedot2.exe
+C:\Users\minib\Downloads\Mittaustiedot2\Mittaustiedot2\obj\Debug\Mittaustiedot2.pdb

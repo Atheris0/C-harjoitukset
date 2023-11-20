@@ -1,0 +1,7 @@
+C:\Users\minib\Downloads\Nopanheitto\Nopanheitto\bin\Debug\Nopanheitto.exe.config
+C:\Users\minib\Downloads\Nopanheitto\Nopanheitto\bin\Debug\Nopanheitto.exe
+C:\Users\minib\Downloads\Nopanheitto\Nopanheitto\bin\Debug\Nopanheitto.pdb
+C:\Users\minib\Downloads\Nopanheitto\Nopanheitto\obj\Debug\Nopanheitto.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Nopanheitto\Nopanheitto\obj\Debug\Nopanheitto.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Nopanheitto\Nopanheitto\obj\Debug\Nopanheitto.exe
+C:\Users\minib\Downloads\Nopanheitto\Nopanheitto\obj\Debug\Nopanheitto.pdb
