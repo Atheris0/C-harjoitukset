@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Perusjuttuja listan kanssa\Perusjuttuja listan kanssa\bin\Debug\Perusjuttuja listan kanssa.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Perusjuttuja listan kanssa\Perusjuttuja listan kanssa\bin\Debug\Perusjuttuja listan kanssa.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Perusjuttuja listan kanssa\Perusjuttuja listan kanssa\bin\Debug\Perusjuttuja listan kanssa.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Perusjuttuja listan kanssa\Perusjuttuja listan kanssa\obj\Debug\Perusjuttuja listan kanssa.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Perusjuttuja listan kanssa\Perusjuttuja listan kanssa\obj\Debug\Perusjuttuja listan kanssa.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Perusjuttuja listan kanssa\Perusjuttuja listan kanssa\obj\Debug\Perusjuttuja listan kanssa.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Perusjuttuja listan kanssa\Perusjuttuja listan kanssa\obj\Debug\Perusjuttuja listan kanssa.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Perusjuttuja listan kanssa\Perusjuttuja listan kanssa\obj\Debug\Perusjuttuja listan kanssa.pdb
