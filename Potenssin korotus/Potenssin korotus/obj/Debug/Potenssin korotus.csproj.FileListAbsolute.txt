@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Potenssin korotus\Potenssin korotus\bin\Debug\Potenssin korotus.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Potenssin korotus\Potenssin korotus\bin\Debug\Potenssin korotus.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Potenssin korotus\Potenssin korotus\bin\Debug\Potenssin korotus.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Potenssin korotus\Potenssin korotus\obj\Debug\Potenssin korotus.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Potenssin korotus\Potenssin korotus\obj\Debug\Potenssin korotus.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Potenssin korotus\Potenssin korotus\obj\Debug\Potenssin korotus.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Potenssin korotus\Potenssin korotus\obj\Debug\Potenssin korotus.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Potenssin korotus\Potenssin korotus\obj\Debug\Potenssin korotus.pdb

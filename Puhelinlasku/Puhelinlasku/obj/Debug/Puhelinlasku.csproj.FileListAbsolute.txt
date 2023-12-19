@@ -1,0 +1,14 @@
+E:\Koodit\C_sharp\Puhelinlasku\Puhelinlasku\bin\Debug\Puhelinlasku.exe.config
+E:\Koodit\C_sharp\Puhelinlasku\Puhelinlasku\bin\Debug\Puhelinlasku.exe
+E:\Koodit\C_sharp\Puhelinlasku\Puhelinlasku\bin\Debug\Puhelinlasku.pdb
+E:\Koodit\C_sharp\Puhelinlasku\Puhelinlasku\obj\Debug\Puhelinlasku.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\Puhelinlasku\Puhelinlasku\obj\Debug\Puhelinlasku.exe
+E:\Koodit\C_sharp\Puhelinlasku\Puhelinlasku\obj\Debug\Puhelinlasku.pdb
+C:\Users\2254336\Downloads\Puhelinlasku\Puhelinlasku\Puhelinlasku\obj\Debug\Puhelinlasku.csproj.AssemblyReference.cache
+C:\Users\2254336\Downloads\Puhelinlasku\Puhelinlasku\Puhelinlasku\obj\Debug\Puhelinlasku.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\Downloads\Puhelinlasku\Puhelinlasku\Puhelinlasku\obj\Debug\Puhelinlasku.csproj.CoreCompileInputs.cache
+C:\Users\2254336\Downloads\Puhelinlasku\Puhelinlasku\Puhelinlasku\obj\Debug\Puhelinlasku.exe
+C:\Users\2254336\Downloads\Puhelinlasku\Puhelinlasku\Puhelinlasku\obj\Debug\Puhelinlasku.pdb
+C:\Users\2254336\Downloads\Puhelinlasku\Puhelinlasku\Puhelinlasku\bin\Debug\Puhelinlasku.exe.config
+C:\Users\2254336\Downloads\Puhelinlasku\Puhelinlasku\Puhelinlasku\bin\Debug\Puhelinlasku.exe
+C:\Users\2254336\Downloads\Puhelinlasku\Puhelinlasku\Puhelinlasku\bin\Debug\Puhelinlasku.pdb

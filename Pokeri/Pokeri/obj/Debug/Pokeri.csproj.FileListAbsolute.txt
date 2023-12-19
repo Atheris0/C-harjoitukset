@@ -1,0 +1,17 @@
+E:\Koodit\C_sharp\Pokeri\Pokeri\bin\Debug\Pokeri.exe.config
+E:\Koodit\C_sharp\Pokeri\Pokeri\obj\Debug\Pokeri.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\Pokeri\Pokeri\bin\Debug\Pokeri.exe
+E:\Koodit\C_sharp\Pokeri\Pokeri\bin\Debug\Pokeri.pdb
+E:\Koodit\C_sharp\Pokeri\Pokeri\obj\Debug\Pokeri.exe
+E:\Koodit\C_sharp\Pokeri\Pokeri\obj\Debug\Pokeri.pdb
+E:\Koodit\C_sharp\PokeriOma\Pokeri\bin\Debug\Pokeri.exe.config
+E:\Koodit\C_sharp\PokeriOma\Pokeri\obj\Debug\Pokeri.exe
+E:\Koodit\C_sharp\PokeriOma\Pokeri\obj\Debug\Pokeri.pdb
+C:\Users\2254336\Downloads\Pokeri\Pokeri\Pokeri\bin\Debug\Pokeri.exe.config
+C:\Users\2254336\Downloads\Pokeri\Pokeri\Pokeri\bin\Debug\Pokeri.exe
+C:\Users\2254336\Downloads\Pokeri\Pokeri\Pokeri\bin\Debug\Pokeri.pdb
+C:\Users\2254336\Downloads\Pokeri\Pokeri\Pokeri\obj\Debug\Pokeri.csproj.AssemblyReference.cache
+C:\Users\2254336\Downloads\Pokeri\Pokeri\Pokeri\obj\Debug\Pokeri.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\Downloads\Pokeri\Pokeri\Pokeri\obj\Debug\Pokeri.csproj.CoreCompileInputs.cache
+C:\Users\2254336\Downloads\Pokeri\Pokeri\Pokeri\obj\Debug\Pokeri.exe
+C:\Users\2254336\Downloads\Pokeri\Pokeri\Pokeri\obj\Debug\Pokeri.pdb
