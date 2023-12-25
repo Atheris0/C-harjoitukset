@@ -1,0 +1,7 @@
+C:\Users\minib\Downloads\Sanalaskuri\Sanalaskuri\bin\Debug\Sanalaskuri.exe.config
+C:\Users\minib\Downloads\Sanalaskuri\Sanalaskuri\bin\Debug\Sanalaskuri.exe
+C:\Users\minib\Downloads\Sanalaskuri\Sanalaskuri\bin\Debug\Sanalaskuri.pdb
+C:\Users\minib\Downloads\Sanalaskuri\Sanalaskuri\obj\Debug\Sanalaskuri.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Sanalaskuri\Sanalaskuri\obj\Debug\Sanalaskuri.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Sanalaskuri\Sanalaskuri\obj\Debug\Sanalaskuri.exe
+C:\Users\minib\Downloads\Sanalaskuri\Sanalaskuri\obj\Debug\Sanalaskuri.pdb

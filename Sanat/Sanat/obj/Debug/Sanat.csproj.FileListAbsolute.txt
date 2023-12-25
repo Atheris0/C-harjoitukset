@@ -1,0 +1,3 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Sanat\Sanat\obj\Debug\Sanat.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Sanat\Sanat\obj\Debug\Sanat.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Sanat\Sanat\obj\Debug\Sanat.csproj.CoreCompileInputs.cache
