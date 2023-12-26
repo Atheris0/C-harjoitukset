@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Vertailut ja loogiset operaattorit\Vertailut ja loogiset operaattorit\bin\Debug\Vertailut ja loogiset operaattorit.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Vertailut ja loogiset operaattorit\Vertailut ja loogiset operaattorit\bin\Debug\Vertailut ja loogiset operaattorit.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Vertailut ja loogiset operaattorit\Vertailut ja loogiset operaattorit\bin\Debug\Vertailut ja loogiset operaattorit.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Vertailut ja loogiset operaattorit\Vertailut ja loogiset operaattorit\obj\Debug\Vertailut ja loogiset operaattorit.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Vertailut ja loogiset operaattorit\Vertailut ja loogiset operaattorit\obj\Debug\Vertailut ja loogiset operaattorit.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Vertailut ja loogiset operaattorit\Vertailut ja loogiset operaattorit\obj\Debug\Vertailut ja loogiset operaattorit.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Vertailut ja loogiset operaattorit\Vertailut ja loogiset operaattorit\obj\Debug\Vertailut ja loogiset operaattorit.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Vertailut ja loogiset operaattorit\Vertailut ja loogiset operaattorit\obj\Debug\Vertailut ja loogiset operaattorit.pdb

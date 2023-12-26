@@ -1,0 +1,7 @@
+C:\Users\minib\Downloads\Vesilaskuri\Vesilaskuri\bin\Debug\Vesilaskuri.exe.config
+C:\Users\minib\Downloads\Vesilaskuri\Vesilaskuri\bin\Debug\Vesilaskuri.exe
+C:\Users\minib\Downloads\Vesilaskuri\Vesilaskuri\bin\Debug\Vesilaskuri.pdb
+C:\Users\minib\Downloads\Vesilaskuri\Vesilaskuri\obj\Debug\Vesilaskuri.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Vesilaskuri\Vesilaskuri\obj\Debug\Vesilaskuri.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Vesilaskuri\Vesilaskuri\obj\Debug\Vesilaskuri.exe
+C:\Users\minib\Downloads\Vesilaskuri\Vesilaskuri\obj\Debug\Vesilaskuri.pdb
