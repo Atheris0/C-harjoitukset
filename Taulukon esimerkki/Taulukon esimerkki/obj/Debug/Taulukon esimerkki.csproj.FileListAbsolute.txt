@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Taulukon esimerkki\Taulukon esimerkki\bin\Debug\Taulukon esimerkki.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Taulukon esimerkki\Taulukon esimerkki\bin\Debug\Taulukon esimerkki.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Taulukon esimerkki\Taulukon esimerkki\bin\Debug\Taulukon esimerkki.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Taulukon esimerkki\Taulukon esimerkki\obj\Debug\Taulukon esimerkki.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Taulukon esimerkki\Taulukon esimerkki\obj\Debug\Taulukon esimerkki.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Taulukon esimerkki\Taulukon esimerkki\obj\Debug\Taulukon esimerkki.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Taulukon esimerkki\Taulukon esimerkki\obj\Debug\Taulukon esimerkki.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Taulukon esimerkki\Taulukon esimerkki\obj\Debug\Taulukon esimerkki.pdb

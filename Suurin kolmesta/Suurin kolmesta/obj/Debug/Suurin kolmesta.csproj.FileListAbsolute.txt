@@ -1,0 +1,8 @@
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Suurin kolmesta\Suurin kolmesta\bin\Debug\Suurin kolmesta.exe.config
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Suurin kolmesta\Suurin kolmesta\bin\Debug\Suurin kolmesta.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Suurin kolmesta\Suurin kolmesta\bin\Debug\Suurin kolmesta.pdb
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Suurin kolmesta\Suurin kolmesta\obj\Debug\Suurin kolmesta.csproj.AssemblyReference.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Suurin kolmesta\Suurin kolmesta\obj\Debug\Suurin kolmesta.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Suurin kolmesta\Suurin kolmesta\obj\Debug\Suurin kolmesta.csproj.CoreCompileInputs.cache
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Suurin kolmesta\Suurin kolmesta\obj\Debug\Suurin kolmesta.exe
+C:\Users\2254336\OneDrive - Etelä-Karjalan koulutuskuntayhtymä\Koodit\C#\Suurin kolmesta\Suurin kolmesta\obj\Debug\Suurin kolmesta.pdb

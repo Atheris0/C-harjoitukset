@@ -1,0 +1,17 @@
+E:\Koodit\C_sharp\Tilit\Tilit\bin\Debug\Tilit.exe.config
+E:\Koodit\C_sharp\Tilit\Tilit\bin\Debug\Tilit.exe
+E:\Koodit\C_sharp\Tilit\Tilit\bin\Debug\Tilit.pdb
+E:\Koodit\C_sharp\Tilit\Tilit\obj\Debug\Tilit.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\Tilit\Tilit\obj\Debug\Tilit.exe
+E:\Koodit\C_sharp\Tilit\Tilit\obj\Debug\Tilit.pdb
+E:\Koodit\C_sharp\TilitOma\Tilit\bin\Debug\Tilit.exe.config
+E:\Koodit\C_sharp\TilitOma\Tilit\obj\Debug\Tilit.exe
+E:\Koodit\C_sharp\TilitOma\Tilit\obj\Debug\Tilit.pdb
+C:\Users\2254336\Downloads\Tilit\Tilit\Tilit\bin\Debug\Tilit.exe.config
+C:\Users\2254336\Downloads\Tilit\Tilit\Tilit\bin\Debug\Tilit.exe
+C:\Users\2254336\Downloads\Tilit\Tilit\Tilit\bin\Debug\Tilit.pdb
+C:\Users\2254336\Downloads\Tilit\Tilit\Tilit\obj\Debug\Tilit.csproj.AssemblyReference.cache
+C:\Users\2254336\Downloads\Tilit\Tilit\Tilit\obj\Debug\Tilit.csproj.SuggestedBindingRedirects.cache
+C:\Users\2254336\Downloads\Tilit\Tilit\Tilit\obj\Debug\Tilit.csproj.CoreCompileInputs.cache
+C:\Users\2254336\Downloads\Tilit\Tilit\Tilit\obj\Debug\Tilit.exe
+C:\Users\2254336\Downloads\Tilit\Tilit\Tilit\obj\Debug\Tilit.pdb
