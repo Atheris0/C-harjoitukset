@@ -1,0 +1,14 @@
+C:\Users\minib\Downloads\Ympyrä\Ympyrä\obj\Debug\Ympyrä.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\Ympyrä\Ympyrä\obj\Debug\Ympyrä.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\Ympyrä\Ympyrä\bin\Debug\Ympyrä.exe.config
+C:\Users\minib\Downloads\Ympyrä\Ympyrä\bin\Debug\Ympyrä.exe
+C:\Users\minib\Downloads\Ympyrä\Ympyrä\bin\Debug\Ympyrä.pdb
+C:\Users\minib\Downloads\Ympyrä\Ympyrä\obj\Debug\Ympyrä.exe
+C:\Users\minib\Downloads\Ympyrä\Ympyrä\obj\Debug\Ympyrä.pdb
+C:\Users\minib\Downloads\C#\C#\Ympyrä\Ympyrä\bin\Debug\Ympyrä.exe.config
+C:\Users\minib\Downloads\C#\C#\Ympyrä\Ympyrä\bin\Debug\Ympyrä.exe
+C:\Users\minib\Downloads\C#\C#\Ympyrä\Ympyrä\bin\Debug\Ympyrä.pdb
+C:\Users\minib\Downloads\C#\C#\Ympyrä\Ympyrä\obj\Debug\Ympyrä.csproj.AssemblyReference.cache
+C:\Users\minib\Downloads\C#\C#\Ympyrä\Ympyrä\obj\Debug\Ympyrä.csproj.CoreCompileInputs.cache
+C:\Users\minib\Downloads\C#\C#\Ympyrä\Ympyrä\obj\Debug\Ympyrä.exe
+C:\Users\minib\Downloads\C#\C#\Ympyrä\Ympyrä\obj\Debug\Ympyrä.pdb
